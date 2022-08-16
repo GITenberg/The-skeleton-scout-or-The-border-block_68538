@@ -1,0 +1,42 @@
+_repo: The-skeleton-scout-or-The-border-block_68538
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Aiken, Albert W.
+    aliases:
+    - Carson, Lewis W.
+    - Sara, Delle
+    birthdate: 1846
+    deathdate: 1894
+    gutenberg_agent_id: '50219'
+    url: http://www.gutenberg.org/2009/agents/50219
+description: ''
+gutenberg_issued: '2022-07-16'
+identifiers:
+  gutenberg: '68538'
+language: en
+pgterms:marc905: 20200424120133various
+pgterms:marc906: '1872'
+pgterms:marc907: US
+production_note: David Edwards, Graeme Mackreth and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Northern Illinois University Digital Library)
+publication_note: United States :Beadle and Adams,1872,copyright 1884.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Beadle's Pocket Novels No. 73
+subjects:
+- !lcsh 'Wyandot Indians -- Fiction'
+- !lcsh 'Dime novels'
+- !lcsh 'Tenskwatawa, Shawnee Prophet -- Fiction'
+- !lcsh 'Apparitions -- Fiction'
+- !lcsh 'Potawatomi Indians -- Fiction'
+- !lcsh 'Tecumseh, Shawnee chief, 1768-1813 -- Fiction'
+- !lcsh 'Scouts (Reconnaissance) -- Fiction'
+- !lcsh 'Ghost stories'
+- !lcc 'PS'
+- !lcsh 'Soldiers -- Fiction'
+- !lcsh 'Indians of North America -- Fiction'
+- GITenberg
+title: The skeleton scout; or, The border block
+url: http://www.gutenberg.org/ebooks/68538
