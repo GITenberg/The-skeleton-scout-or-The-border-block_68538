@@ -1,5 +1,8 @@
 _repo: The-skeleton-scout-or-The-border-block_68538
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68538-h/images/cover.jpg
 creator:
   author:
     agent_name: Aiken, Albert W.
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '50219'
     url: http://www.gutenberg.org/2009/agents/50219
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68538#The-skeleton-scout-or-The-border-block
 gutenberg_issued: '2022-07-16'
 identifiers:
   gutenberg: '68538'
